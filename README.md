@@ -1,5 +1,7 @@
 In one terminal window, run this server, using:
 ```
+mkdir vendor
+touch vendor/autoload.php
 php -S 8000
 ```
 
